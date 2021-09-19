@@ -41,7 +41,7 @@
     "redbox-react": "^1.6.0",
     "ts-loader": "^7.0.0",
     "typescript": "^3.8.3",
-    "webpack": "^4.41.5",
+    "webpack": "^5.51.1",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1"
   },
